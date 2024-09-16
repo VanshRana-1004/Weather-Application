@@ -6,6 +6,8 @@ Weather App Live Demo : https://vanshrana-1004.github.io/Weather-Application/
 
 I used API keys from this : https://openweathermap.org/
 
+Github Profile : https://github.com/VanshRana-1004
+
 # Key Features :
 Responsive Design: The app is built with a mobile-first approach, ensuring a seamless experience across devices. Bootstrap Framework: Leveraging the power of Bootstrap for a clean and intuitive user interface. Real-time Data: Utilizing JavaScript to fetch and display up-to-date weather information using a weather API. Location Detection: Enjoy the convenience of automatic location detection, allowing the app to dynamically retrieve weather data based on your device's geolocation. User-friendly Interface: Intuitive design and interactive elements make navigating and using the app a breeze.
 
